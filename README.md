@@ -14,7 +14,7 @@ A simple, easy to use tool for WBHS students.
 
 To download the program, simply navgate to Releases and download the version you want.
 
-https://cdn.discordapp.com/attachments/1182576986883883018/1218333699360428232/Screenshot_2024-03-16_115926.png?ex=660748ad&is=65f4d3ad&hm=dd30e3d273061db1db428979d3323af3cb5dae0cfedec3af290d06a2fb493d80&
+![Where to download](https://cdn.discordapp.com/attachments/1182576986883883018/1218333699360428232/Screenshot_2024-03-16_115926.png?ex=660748ad&is=65f4d3ad&hm=dd30e3d273061db1db428979d3323af3cb5dae0cfedec3af290d06a2fb493d80&)
 
 ### Installing
 
@@ -22,7 +22,7 @@ To installed the folder simply drag the downloaded exe into a folder.
 
 Example:
 
-https://cdn.discordapp.com/attachments/1182576986883883018/1218345507274096720/image.png?ex=660753ac&is=65f4deac&hm=5565604f5ae70b8f39042139430490d00047a961ead0b3a137733780a0dd3ca8&
+![A example of how to install](https://cdn.discordapp.com/attachments/1182576986883883018/1218345507274096720/image.png?ex=660753ac&is=65f4deac&hm=5565604f5ae70b8f39042139430490d00047a961ead0b3a137733780a0dd3ca8&)
 
 ## Running the program
 
