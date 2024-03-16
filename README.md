@@ -43,10 +43,6 @@ Example:
 ## Built with 
 
 * **Python!** 
-    Tkinter
-    CustomTkinter
-    DateTime
-    Icalendar
 
 ## |ADVANCED| 
 
@@ -60,7 +56,7 @@ pyinstaller --noconfirm --onedir --console  "path/to/the/py/file"
 
 ## Authors
 
-* **BotSolo** - *Initial work* - [BotSolo's Github Profile](https://github.com/BotSolo621)
+* **[BotSolo](https://github.com/BotSolo621)** 
 
 ### Contributors
-* **BotSolo** - *Initial work* - [BotSolo's Github Profile](https://github.com/BotSolo621)
+* **Calab** he gave me a dollar 😎
