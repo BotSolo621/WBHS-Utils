@@ -26,15 +26,27 @@ Example:
 
 ### Running the program
 
-1.Run the exe file.
+1.Run the EXE file.
+![A example of program](https://cdn.discordapp.com/attachments/1182576986883883018/1218351208058585201/image.png?ex=660758fb&is=65f4e3fb&hm=792912f81f85eaa430f661ef0d3c999ff883c7e861520bb7aca991dd3fa04198&)
+
+2.Find your ICS URL.
 ![A example of WHERE ICS](https://cdn.discordapp.com/attachments/1182576986883883018/1218350937052020756/Screenshot_2024-03-16_130937.png?ex=660758bb&is=65f4e3bb&hm=016000433e2f507082f545f80a07f347a07515861ff4ed188cc548c8b943a959&)
-2.Put your ICS link in.
-![A example of WHERE PUT ICS](https://cdn.discordapp.com/attachments/1182576986883883018/1218351208058585201/image.png?ex=660758fb&is=65f4e3fb&hm=792912f81f85eaa430f661ef0d3c999ff883c7e861520bb7aca991dd3fa04198&)
+
+3.Put ICS URL in the prompt.
+![A example of WHERE TO PUT ICS](https://cdn.discordapp.com/attachments/1182576986883883018/1218352867304276110/image.png?ex=66075a87&is=65f4e587&hm=bef1d857620f8f5e2e7dc4d034cf17f741c76456a46f7daafeafa2b8005f8741&)
+
+4.Now run the EXE again.
+![A example of RUN IT AGAIN](https://cdn.discordapp.com/attachments/1182576986883883018/1218353229105205372/image.png?ex=66075add&is=65f4e5dd&hm=3483d43f9f89d5a193878e2715d8a553ab68495b9115a9f572ebe7a069a44d71&)
+
 
 
 ## Built with 
 
 * **Python!** 
+    Tkinter
+    CustomTkinter
+    DateTime
+    Icalendar
 
 ## |ADVANCED| 
 
