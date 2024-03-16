@@ -59,4 +59,4 @@ pyinstaller --noconfirm --onedir --console  "path/to/the/py/file"
 * **[BotSolo](https://github.com/BotSolo621)** 
 
 ### Contributors
-* **Calab** he gave me a dollar 😎
+* **Calab** - He gave me a dollar 😎
