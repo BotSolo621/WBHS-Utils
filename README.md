@@ -26,7 +26,11 @@ Example:
 
 ### Running the program
 
-Simply double click the exe file, put your ICS link (found under your timetable in portal.westlake.school.nz/attendance/1) and restart the program.
+1.Run the exe file.
+![A example of WHERE ICS](https://cdn.discordapp.com/attachments/1182576986883883018/1218350937052020756/Screenshot_2024-03-16_130937.png?ex=660758bb&is=65f4e3bb&hm=016000433e2f507082f545f80a07f347a07515861ff4ed188cc548c8b943a959&)
+2.Put your ICS link in.
+![A example of WHERE PUT ICS](https://cdn.discordapp.com/attachments/1182576986883883018/1218351208058585201/image.png?ex=660758fb&is=65f4e3fb&hm=792912f81f85eaa430f661ef0d3c999ff883c7e861520bb7aca991dd3fa04198&)
+
 
 ## Built with 
 
